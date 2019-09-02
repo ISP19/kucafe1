@@ -2,7 +2,7 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Omlet + Rice                            |  25.0  |
 
 ## Beverages
 
