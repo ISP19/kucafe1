@@ -6,5 +6,5 @@
 
 | Name                         | Role | Github |
 |------------------------------|------|--------|
-| Mai Norapong                 | | MaiNorapong |
-| Tharathorn Bunrattanasathian | | th-bunratta |
+| Mai Norapong                 |       | MaiNorapong |
+| Tharathorn Bunrattanasathian | Dinner recipe maker | th-bunratta |
