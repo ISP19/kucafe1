@@ -8,3 +8,4 @@
 |------|------|--------|
 | Mai Norapong | | MaiNorapong |
 | Chayathon Khuttiyanon | Breakfast menu | plumest |
+| Sirawich Direkwattanachai | Breakfast beverage| magmagcup|
