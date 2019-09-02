@@ -6,5 +6,5 @@
 
 | Name                         | Role                | Github      |
 |------------------------------|---------------------|-------------|
-| Mai Norapong                 | Pasta Connoisseur   | MaiNorapong |
+| Mai Norapong                 | Dinner Connoisseur  | MaiNorapong |
 | Tharathorn Bunrattanasathian | Dinner recipe maker | th-bunratta |
