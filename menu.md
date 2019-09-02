@@ -1,8 +1,8 @@
 ## Dinner Menu
 
-| Item                                   | Price |
+| Item                                   | Price (Baht) |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Vegan Chickpea Shakshuka               | 230.0 |
 | Spaghetti al Pomodoro                  | 140.0 |
 | Fettuccine al Pomodoro                 | 140.0 |
 | Pasta alla Genovese                    | 140.0 |
@@ -15,9 +15,8 @@
 
 ## Beverages
 
-| Item                                   | Price |
+| Item                                   | Price (Baht) |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
 | Beer: Chang                            |  70.0 |
 | Beer: Signha                           |  70.0 |
 | Beer: Leo                              |  70.0 |
