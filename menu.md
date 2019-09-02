@@ -1,8 +1,9 @@
-## Menu
+##Lunch Menu
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Truffle Alfredo                        |  340  |
+| Pork pepper rice                       |  109  |
 
 ## Beverages
 
