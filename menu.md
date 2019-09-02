@@ -1,5 +1,4 @@
-# Breakfast Menu
----
+## Breakfast Menu
 
 | Item                                   | Price (Baht) |
 |:---------------------------------------|-------------:|
@@ -10,7 +9,8 @@
 | Caesar Salad                           | 59.0         |
 | Charcuterie Board                      | 99.0         |
 
-## Beverages
+
+## Beakfast Beverages
 
 | Item                                   | Price (Baht) |
 |:---------------------------------------|-------------:|
@@ -19,6 +19,35 @@
 | Espresso                               | 45.0         |
 | Americano                              | 30.0         |
 
+---
+
+## Dinner Menu
+
+| Item                                   | Price (Baht) |
+|:---------------------------------------|-------------:|
+| Vegan Chickpea Shakshuka               |  230.0       |
+| Chicken Parmesan Lasagna               |  160.0       |
+| Chicken Parmesan Lasagna               |  160.0       |
+| Zucchini Rollatini                     |  520.0       |
+| Spaghetti al Pomodoro                  | 140.0        |
+| Fettuccine al Pomodoro                 | 140.0        |
+| Pasta alla Genovese                    | 140.0        |
+| Pasta con le sarde                     | 140.0        |
+| Spaghetti alla puttanesca              | 140.0        |
+| Bucatini all Amatriciana               | 140.0        |
+| Spaghetti alla Carbonara               | 140.0        |
+| Caccio e Pepe                          | 140.0        |
+| Lasagna                                | 200.0        |
+
+
+## Dinner Beverages
+
+| Item                                   | Price (Baht) |
+|:---------------------------------------|-------------:|
+| Beer: Chang                            |  70.0        |
+| Beer: Signha                           |  70.0        |
+| Beer: Leo                              |  70.0        |
+| Beer: Heineken                         |  70.0        |
 
 ---
 
