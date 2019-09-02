@@ -1,5 +1,5 @@
-# Breakfast
-## Menu
+# Breakfast Menu
+---
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
