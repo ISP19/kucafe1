@@ -1,8 +1,14 @@
+# Breakfast
 ## Menu
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| Omlet + Rice                            |  25.0  |
+| Huevos Rancheros                        |  350.0  |
+| Croque Monsieur | 340.0 |
+| Roast Breakfast | 400.0 |
+| Eggs Benedict  | 280.0 |
+| Caesar Salad  | 240.0  |
+| Charcuterie Board | 380.0 |
 
 ## Beverages
 
