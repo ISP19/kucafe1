@@ -1,8 +1,9 @@
-## Menu
+## Dinner Menu
 
-| Item                                   | Price |
-|:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Item                                   | Price (Baht) |
+|:---------------------------------------|-------------:|
+| Vegan Chickpea Shakshuka               |  230.0       |
+
 
 ## Beverages
 
