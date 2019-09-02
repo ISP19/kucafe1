@@ -14,7 +14,11 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Latte                           |  40.0  |
+| Caramel macchiato                       | 55.0  |
+| Espresso                           |  45.0  |
+| Americano                           |  30.0  |
+
 
 ---
 
