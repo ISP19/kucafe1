@@ -4,7 +4,7 @@
 
 ## About Us
 
-| Name                         | Role | Github |
-|------------------------------|------|--------|
-| Mai Norapong                 | | MaiNorapong |
+| Name                         | Role              | Github      |
+|------------------------------|-------------------|-------------|
+| Mai Norapong                 | Pasta Connoisseur | MaiNorapong |
 | Tharathorn Bunrattanasathian | | th-bunratta |
