@@ -3,8 +3,9 @@
 | Item                                   | Price (Baht) |
 |:---------------------------------------|-------------:|
 | Vegan Chickpea Shakshuka               |  230.0       |
-
-======
+| Chicken Parmesan Lasagna               |  160.0       |
+| Chicken Parmesan Lasagna               |  160.0       |
+| Zucchini Rollatini                     |  520.0       |
 
 ## Beverages
 
